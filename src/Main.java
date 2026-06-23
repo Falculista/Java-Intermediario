@@ -27,7 +27,7 @@ public class Main {
 
         // Set => não permite duplicatas [1,2,3,4,5]
 
-
+        Set<String> placasCarros = new HashSet<>();
 
         // Map => Estrutura de chave valor
 
